@@ -1,4 +1,4 @@
-# PlanB - Task 1
+# CCDHACK - Task 1
 Install Rust
 Installed from https://rustup.rs
 

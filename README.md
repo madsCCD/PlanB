@@ -1,4 +1,7 @@
 # CCDHACK - Task 1
+
+MAINNET account:33qy1b5CECjo4xmFyKPwhg5qpbDma9mB1d3g73iBKE8U5hy4S4
+
 Install Rust
 Installed from https://rustup.rs
 
